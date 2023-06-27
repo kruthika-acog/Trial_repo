@@ -1,6 +1,8 @@
+##
+<!--update this regularly-->
 # Trial_repo
 For tutorial purpose
-# Introduction
+# About meeeeeeee
 
 Hi! Kruthika here practising some markdown language.
 
@@ -34,3 +36,7 @@ How about wrap it up?
   |     2| Asur II              |
   |     3| Lucifer              |
 </details>
+
+---
+> The most painful feeling is remembering the future, particularly the one you will never have.
+-Soren Keikergaard
