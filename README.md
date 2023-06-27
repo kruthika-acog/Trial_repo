@@ -15,3 +15,12 @@ C-->D[git push]
 
 Today I have to study what is typing in Python. ALso have to go through this link: https://missing.csail.mit.edu/
 That link has tutorial for shell scripting too. Yaad rakhna
+
+Let's make a table for no reason ;)
+
+| Rank | My fav web series |
+|-----:|---------------|
+|     1| The Untamed          |
+|     2| Asur II              |
+|     3| Lucifer              |
+
