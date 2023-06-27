@@ -24,3 +24,13 @@ Let's make a table for no reason ;)
 |     2| Asur II              |
 |     3| Lucifer              |
 
+How about wrap it up?
+
+<details>
+  <summary> My fav web series</summary>
+  | Rank | My fav web series |
+  |-----:|---------------|
+  |     1| The Untamed          |
+  |     2| Asur II              |
+  |     3| Lucifer              |
+</details>
