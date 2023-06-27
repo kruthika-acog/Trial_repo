@@ -36,7 +36,7 @@ How about wrap it up?
   |     2| Asur II              |
   |     3| Lucifer              |
 </details>
-
+Aiyyo why is the table not appearing in format???
 ---
-> The most painful feeling is remembering the future, particularly the one you will never have.
+> The most painful state of being is remembering the future, particularly the one you will never have.
 -Soren Keikergaard
