@@ -2,9 +2,10 @@
 <!--update this regularly-->
 # Trial_repo
 For tutorial purpose
-# About meeeeeeee
+## About meeeeeeee
 
 Hi! Kruthika here practising some markdown language.
+LinkedIn: [Kruthika](https://www.linkedin.com/in/kruthika-a-01aa331aa/)
 
 Steps I did to add files to this github repo from local repo:
 
@@ -16,9 +17,10 @@ C-->D[git push]
 ```
 
 Today I have to study what is typing in Python. ALso have to go through this link: https://missing.csail.mit.edu/
-That link has tutorial for shell scripting too. Yaad rakhna
 
-Let's make a table for no reason ;)
+That link has tutorial for shell scripting too. __Yaad rakhna__
+
+Let's make a table for no reason __;)__
 
 | Rank | My fav web series |
 |-----:|---------------|
@@ -37,6 +39,8 @@ How about wrap it up?
   |     3| Lucifer              |
 </details>
 Aiyyo why is the table not appearing in format???
+
+See some basic formatting syntax here (text format and text colours): https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ---
 > The most painful state of being is remembering the future, particularly the one you will never have.
