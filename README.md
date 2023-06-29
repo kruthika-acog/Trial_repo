@@ -42,6 +42,8 @@ Aiyyo why is the table not appearing in format???
 
 See some basic formatting syntax here (text format and text colours): https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+Now I feel github and git are manageable. Docker is a bit confusing, though the kokekloud tutorials are helping. Will soon get used to it. __:D__
+
 ---
 > The most painful state of being is remembering the future, particularly the one you will never have.
 -Soren Keikergaard
