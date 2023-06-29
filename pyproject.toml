@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "trial-repo"
+version = "0.1.0"
+description = ""
+authors = ["Kruthika Avadhani <kruthika@aganitha.ai>"]
+readme = "README.md"
+packages = [{include = "trial_repo"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
