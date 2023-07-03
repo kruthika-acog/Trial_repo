@@ -2,6 +2,7 @@
 <!--update this regularly-->
 # Trial_repo
 For tutorial purpose
+Find my everyday diary here: [Kruthika's Diary] (https://docs.google.com/spreadsheets/d/1nDT_cSJ5aSMlxEQ5Rz53yLxh5_y9f8f1y56j956bUvc/edit#gid=0)
 ## About meeeeeeee
 
 Hi! Kruthika here practising some markdown language :)
@@ -44,6 +45,8 @@ See some basic formatting syntax here (text format and text colours): https://do
 
 Now I feel github and git are manageable. Docker is a bit confusing, though the kokekloud tutorials are helping. Will soon get used to it. __:D__
 Table error not solved yet. :(
+
+
 
 ---
 > The most painful state of being is remembering the future, particularly the one you will never have.
